@@ -27,7 +27,8 @@
 ;  26:	0f 05                	syscall
 
 ; OPCODE (code d'operations)
-; 6a = push 3b = 0x3B
+; 6a = push 
+; 3b = 0x3B
 ; etc...
 
 BITS 64
